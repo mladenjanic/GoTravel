@@ -1,0 +1,14 @@
+.section-search input{
+  padding: 5px !important;
+  font-size: 1.3em;
+  width: 90% !important;
+  border: #f4f4f4 3px solid !important;
+}
+
+.card {
+  height: 300px !important;
+}
+
+.section-follow .fa-4x {
+  margin: 5px 15px;
+}
